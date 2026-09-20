@@ -8,6 +8,15 @@ An end-to-end **Power BI e-commerce analytics project** focused on sales perform
 
 ---
 
+<img width="2000" height="1115" alt="image" src="https://github.com/user-attachments/assets/733970a9-9109-4be1-8801-03a3bcda81e8" />
+
+<img width="2000" height="1119" alt="image" src="https://github.com/user-attachments/assets/f268737a-c659-41b9-bce5-ac0b7e8d29bf" />
+
+<img width="1972" height="1125" alt="image" src="https://github.com/user-attachments/assets/405a84f8-8281-4a49-b55e-a12eb21f524b" />
+
+<img width="2000" height="1121" alt="image" src="https://github.com/user-attachments/assets/cb5f2cd9-ac6d-44bc-a278-ee0bab96e3a4" />
+
+
 ## 📌 Project Overview
 
 This project analyzes an e-commerce dataset to understand:
@@ -76,19 +85,8 @@ Key preparation steps included:
 
 The core model contains:
 
-```text
-Customers
-   │
-   │ CustomerID
-   │
-   ▼
-Orders
-   │
-   └── Product
-          │
-          ▼
-     Product Lookup
-```
+<img width="759" height="751" alt="image" src="https://github.com/user-attachments/assets/2d968e09-228f-440a-9399-276fc66f5ede" />
+
 
 The dataset has an important characteristic: the **Orders–Customers relationship is 1:1**, with each customer appearing once in the order data. This means the current dataset represents first-time purchase activity rather than a repeat-purchase history.
 
