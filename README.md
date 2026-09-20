@@ -8,13 +8,13 @@ An end-to-end **Power BI e-commerce analytics project** focused on sales perform
 
 ---
 
-<img width="2000" height="1115" alt="image" src="https://github.com/user-attachments/assets/733970a9-9109-4be1-8801-03a3bcda81e8" />
+<img width="1900" height="1100" alt="image" src="https://github.com/user-attachments/assets/733970a9-9109-4be1-8801-03a3bcda81e8" />
 
-<img width="2000" height="1119" alt="image" src="https://github.com/user-attachments/assets/f268737a-c659-41b9-bce5-ac0b7e8d29bf" />
+<img width="1900" height="1100" alt="image" src="https://github.com/user-attachments/assets/f268737a-c659-41b9-bce5-ac0b7e8d29bf" />
 
-<img width="1972" height="1125" alt="image" src="https://github.com/user-attachments/assets/405a84f8-8281-4a49-b55e-a12eb21f524b" />
+<img width="1900" height="1100" alt="image" src="https://github.com/user-attachments/assets/405a84f8-8281-4a49-b55e-a12eb21f524b" />
 
-<img width="2000" height="1121" alt="image" src="https://github.com/user-attachments/assets/cb5f2cd9-ac6d-44bc-a278-ee0bab96e3a4" />
+<img width="1900" height="1100" alt="image" src="https://github.com/user-attachments/assets/cb5f2cd9-ac6d-44bc-a278-ee0bab96e3a4" />
 
 
 ## 📌 Project Overview
@@ -85,7 +85,7 @@ Key preparation steps included:
 
 The core model contains:
 
-<img width="759" height="751" alt="image" src="https://github.com/user-attachments/assets/2d968e09-228f-440a-9399-276fc66f5ede" />
+<img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/2d968e09-228f-440a-9399-276fc66f5ede" />
 
 
 The dataset has an important characteristic: the **Orders–Customers relationship is 1:1**, with each customer appearing once in the order data. This means the current dataset represents first-time purchase activity rather than a repeat-purchase history.
@@ -125,8 +125,6 @@ The dataset has an important characteristic: the **Orders–Customers relationsh
 
 The executive sales view brings together revenue, orders, quantity, AOV, rating, delivery time, returns, yearly trends, customer categories, and product categories.
 
-<img src="dashboard_screenshots/sales-overview.png" alt="Amazon Sales Analysis Dashboard" width="100%">
-
 ### Key questions answered
 - How is revenue changing over time?
 - Which product categories generate the most revenue?
@@ -139,8 +137,6 @@ The executive sales view brings together revenue, orders, quantity, AOV, rating,
 
 This page focuses on category, subcategory, product-level revenue, order volume, pricing, customer satisfaction, and delivery performance.
 
-<img src="dashboard_screenshots/product-analysis.png" alt="Amazon Product Analysis Dashboard" width="100%">
-
 ### Key questions answered
 - Which product categories drive revenue?
 - Which categories receive the most orders?
@@ -152,8 +148,6 @@ This page focuses on category, subcategory, product-level revenue, order volume,
 ## 3. Individual Product Analysis Dashboard
 
 This page provides a deeper view of individual products using product selection, revenue trends, location contribution, ratings, shipping fees, and delivery metrics.
-
-<img src="dashboard_screenshots/individual-product-analysis.png" alt="Amazon Individual Product Analysis Dashboard" width="100%">
 
 ### Key questions answered
 - How does a selected product perform over time?
